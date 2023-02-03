@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avalon-Y
 - 👀 I’m interested in Bash, R and python
-- 🌱 I have a BSc(hons) and recently finished my masters of bioinformatics
+- 🌱 I have a BSc(hons) and MBinf
 
 <!---
 Avalon-Y/Avalon-Y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
